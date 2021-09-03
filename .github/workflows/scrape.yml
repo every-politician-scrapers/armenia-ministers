@@ -1,4 +1,4 @@
-name: Scrape latest data
+name: Compare current data
 
 on:
   schedule:
@@ -33,7 +33,7 @@ jobs:
         signoff: false
         branch: data-update
         delete-branch: true
-        title: 'Automated update'
+        title: 'Current member list'
         assignees: tmtmtmtm
         reviewers: tmtmtmtm
     - name: Check outputs
