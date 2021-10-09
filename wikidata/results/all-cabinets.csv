@@ -1,0 +1,11 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q53992760,Tigran Sargsyan government,2008-04-09,11,,,2012-06-03,11,,,Q30588103,Cabinet of Armenia,,,,,,,,,,
+,Q53992760,Tigran Sargsyan government,2008-04-09,11,,,2014-04-13,11,,,Q30588103,Cabinet of Armenia,,,,,,,,,,
+,Q53992883,Abrahamyan government,2014-04-13,11,,,2016-09-17,11,,,Q30588103,Cabinet of Armenia,,,,,,,,,,
+,Q27067538,Karapetyan government,2016-09-13,11,,,2018-04-01,10,,,Q30588103,Cabinet of Armenia,,,,,,,,,,
+,Q53992837,1st Karapetian Cabinet,2016-09-17,11,,,2017-05-18,11,,,Q30588103,Cabinet of Armenia,,,,,,,,,,
+,Q65032529,2nd Karapetian Cabinet,2017-05-30,11,,,2018-04-23,11,,,Q30588103,Cabinet of Armenia,,,,,,,,,,
+,Q53646050,Second Sezh Sargsyan government,2018-04-17,11,,,2018-04-23,11,,,Q30588103,Cabinet of Armenia,,,,,Q53579021,1st Pashinyan government,,,,
+,Q53579021,1st Pashinyan government,2018-05-12,11,,,2019-01-14,11,,,Q30588103,Cabinet of Armenia,,,Q53646050,Second Sezh Sargsyan government,Q60649248,Second Pashinyan government,,,,
+,Q60649248,Second Pashinyan government,2019-01-14,11,,,2021-08-02,11,,,Q30588103,Cabinet of Armenia,,,Q53579021,1st Pashinyan government,Q108128269,Third Pashinyan government,,,,
+,Q108128269,Third Pashinyan government,2021-08-02,11,,,,,,,Q30588103,Cabinet of Armenia,,,,,,,,,,
