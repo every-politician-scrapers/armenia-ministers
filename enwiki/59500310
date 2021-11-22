@@ -1,0 +1,472 @@
+{
+  "title": "Alen Simonyan",
+  "pageID": 59500310,
+  "categories": [
+    "1980 births",
+    "Living people",
+    "Presidents of the National Assembly (Armenia)",
+    "Members of the National Assembly (Armenia)",
+    "Politicians from Yerevan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alen Simonyan (Armenian:Ալեն Սիմոնյան; born 5 January 1980) is an Armenian politician, Vice President of the National Assembly of Armenia and former member of Yerevan City Council.",
+              "links": [
+                {
+                  "text": "Armenian",
+                  "type": "internal",
+                  "page": "Armenian language"
+                },
+                {
+                  "text": "National Assembly of Armenia",
+                  "type": "internal",
+                  "page": "National Assembly (Armenia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yerevan City Council"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alen Simonyan"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Armenian politician (born 1980)",
+          "template": "short description"
+        },
+        {
+          "date": "June 2020",
+          "template": "cleanup rewrite"
+        },
+        {
+          "date": "June 2020",
+          "template": "like resume"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
+          "date": "January 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1980",
+          "month": "1",
+          "day": "5",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Alen Simonyan"
+          },
+          "office": {
+            "text": "President of the National Assembly of Armenia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the National Assembly of Armenia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2 August 2021"
+          },
+          "predecessor": {
+            "text": "Ararat Mirzoyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ararat Mirzoyan"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Vice President of National Assembly",
+            "links": [
+              {
+                "text": "Vice President of National Assembly",
+                "type": "internal",
+                "page": "National Assembly (Armenia)"
+              }
+            ]
+          },
+          "native_name": {
+            "text": "Ալեն Սիմոնյան"
+          },
+          "image": {
+            "text": "Alen Simonyan.jpg"
+          },
+          "alongside1": {
+            "text": "Lena Nazaryan and Vahe Enfiajyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lena Nazaryan"
+              },
+              {
+                "type": "internal",
+                "page": "Vahe Enfiajyan"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Eduard Sharmazanov Arpine Hovhannisyan Mikayel Melkumyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eduard Sharmazanov"
+              },
+              {
+                "type": "internal",
+                "page": "Arpine Hovhannisyan"
+              },
+              {
+                "type": "internal",
+                "page": "Mikayel Melkumyan"
+              }
+            ]
+          },
+          "termstart1": {
+            "text": "15 January 2019"
+          },
+          "term_end1": {
+            "text": "2 August 2021"
+          },
+          "office3": {
+            "text": "Member of the Yerevan City Council",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yerevan City Council"
+              }
+            ]
+          },
+          "party": {
+            "text": "Civil Contract",
+            "links": [
+              {
+                "text": "Civil Contract",
+                "type": "internal",
+                "page": "Civil Contract (Armenia)"
+              }
+            ]
+          },
+          "1blankname1": {
+            "text": "President",
+            "links": [
+              {
+                "text": "President",
+                "type": "internal",
+                "page": "President of the National Assembly of Armenia"
+              }
+            ]
+          },
+          "1namedata1": {
+            "text": "Ararat Mirzoyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ararat Mirzoyan"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the National Assembly",
+            "links": [
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly (Armenia)"
+              }
+            ]
+          },
+          "termstart2": {
+            "text": "16 May 2018"
+          },
+          "termend3": {
+            "text": "2018",
+            "number": 2018
+          },
+          "termstart3": {
+            "text": "2017",
+            "number": 2017
+          },
+          "birth_date": {
+            "text": "January 5, 1980"
+          },
+          "birth_place": {
+            "text": "Yerevan, Armenian SSR, Soviet Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yerevan"
+              },
+              {
+                "type": "internal",
+                "page": "Armenian SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "children": {
+            "text": "Robert Simonyan and Vitoria Simonyan"
+          },
+          "alma_mater": {
+            "text": "Yerevan State University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yerevan State University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician Lawyer"
+          },
+          "image_size": {
+            "text": "250px"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "2000 – 2002 – Served in the Armed Forces of Armenia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Armed Forces of Armenia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2000 – Graduated from the Faculty of Law of Yerevan State University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yerevan State University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2015 – Master's Degree of the Faculty of the Political Science of NAS of Armenia."
+            },
+            {
+              "text": "Political scientist."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2002 – 2003 – Assistant to the Chairman of the Court of the First Instance of Ajapnyak and Davitashen Communities, Secretary of the Office."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2003 – 2004 – Converse Bank, Human Resources Manager."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2006 – 2007– Worked on \"Radio FM\" radio station:"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2008 – Participated in \"PR and Political Technologies\" training courses organized by the European Education & Research Center."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2007–2012 – Cooperated with TV5 TV Company, Yerkir Media TV Company, \"Armenia\" TV Company as a producer, director."
+            },
+            {
+              "text": "Producer of a number of musical, political, pre-election video clips, performance director."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2012 – 2018 – Editor-in-Chief of \"Ararat\" magazine."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2013 – 2018 – Editor-in-chief and founder of Ararat Media Group LLC (araratnews.am web site and \"Ararat\" magazine)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2013 – One of the organizers of the \"Car free\" civil protest against the rise in prices for transportation."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2013 – 2015 – Member of the \"Civil Treaty\" public-political union management board."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "30 May 2015 – Elected; On 30 October 2016 – Re-elected member of the Civil Contract party Board.",
+              "links": [
+                {
+                  "text": "Civil Contract",
+                  "type": "internal",
+                  "page": "Civil Contract (Armenia)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2015 – Speaker of the \"Civil Contract\" party."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2017 – 2018 – Member of the Yerevan City Council in the composition of Way Out Alliance.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yerevan City Council"
+                },
+                {
+                  "type": "internal",
+                  "page": "Way Out Alliance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "16 May 2018 – Elected Member of the National Assembly by the national electoral list of the Way Out Alliance.",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Armenia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Way Out Alliance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "9 December 2018 – Elected member of the National Assembly by the national electoral list of the My Step Alliance.",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Armenia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "My Step Alliance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "15 January 2019 – Elected Vice-President National Assembly",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Armenia)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Author of a number of journalistic articles."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
