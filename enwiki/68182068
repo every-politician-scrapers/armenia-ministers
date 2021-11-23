@@ -231,8 +231,11 @@
                 },
                 {
                   "text": "hy",
-                  "type": "internal",
-                  "page": ":hy:Արսեն Թորոսյան"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "hy"
+                  }
                 },
                 {
                   "text": "Civil Contract",
