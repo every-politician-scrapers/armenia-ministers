@@ -218,68 +218,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Human Rights Defender of the Republic of Armenia (official site)",
-            "links": [
-              {
-                "text": "Human Rights Defender of the Republic of Armenia (official site)",
-                "type": "external",
-                "site": "https://web.archive.org/web/20121109044033/http://www.ombuds.am/en"
-              }
-            ]
-          },
-          {
-            "text": "Official Reports of the Ombudsman of RA",
-            "links": [
-              {
-                "text": "Official Reports of the Ombudsman of RA",
-                "type": "external",
-                "site": "https://archive.is/20130114223256/http://ombuds.am/en/library/library/page/101/type/3"
-              }
-            ]
-          },
-          {
-            "text": "Law of RA on the Human Rights Defender",
-            "links": [
-              {
-                "text": "Law of RA on the Human Rights Defender",
-                "type": "external",
-                "site": "https://archive.is/20130114163607/http://ombuds.am/en/library/browse/page/103"
-              }
-            ]
-          },
-          {
-            "text": "Constitution of RA",
-            "links": [
-              {
-                "text": "Constitution of RA",
-                "type": "external",
-                "site": "https://archive.is/20130114164703/http://ombuds.am/en/library/browse/page/104"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }
