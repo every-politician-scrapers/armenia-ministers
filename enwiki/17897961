@@ -43,7 +43,7 @@
         {
           "sentences": [
             {
-              "text": "A journalist by profession, Pashinyan founded his own newspaper in 1998, which was shut down a year later for libel."
+              "text": "A journalist by profession, Pashinyan founded his own newspaper in 1998, which was shut down a year later."
             },
             {
               "text": "He was sentenced for one year for defamation against then Minister of National Security Serzh Sargsyan.",
@@ -69,7 +69,7 @@
               }
             },
             {
-              "text": "A supporter of Armenia's first president Levon Ter-Petrosyan, he was highly critical of second president Robert Kocharyan, Defense Minister Serzh Sargsyan, and their allied oligarchs.",
+              "text": "Sympathetic to Armenia's first president Levon Ter-Petrosyan, he was highly critical of second president Robert Kocharyan, Defense Minister Serzh Sargsyan, and their allied oligarchs.",
               "links": [
                 {
                   "type": "internal",
@@ -96,7 +96,7 @@
         {
           "sentences": [
             {
-              "text": "Pashinyan was an dedicated supporter of Ter-Petrosyan, who made a political comeback prior to the 2008 presidential election, before losing to Serzh Sargsyan.",
+              "text": "Pashinyan was an outspoken supporter of Ter-Petrosyan, who made a political comeback prior to the 2008 presidential election, before losing to Serzh Sargsyan amidst widespread vote fraud and violence.",
               "links": [
                 {
                   "text": "2008 presidential election",
@@ -106,7 +106,7 @@
               ]
             },
             {
-              "text": "Despite Ter-Petrosyan being a very unpopular figure, Pashinyan claimed voter fraud and incited protestors to attack police in the post-election protests on 1 March 2008, resulting in the deaths of ten people.",
+              "text": "Noted for his fiery speeches, Pashinyan had a significant role in the post-election protests which were squashed by government forces on 1 March 2008, resulting in the deaths of ten people.",
               "links": [
                 {
                   "text": "post-election protests",
@@ -116,10 +116,10 @@
               ]
             },
             {
-              "text": "Convicted of organizing mass disorders, he went into hiding until mid-2009."
+              "text": "Blamed for \"organizing mass disorders\", he went into hiding until mid-2009."
             },
             {
-              "text": "He was sentenced to seven years in prison for his role in the protests."
+              "text": "He was controversially sentenced to seven years in prison; a move seen as politically motivated."
             },
             {
               "text": "He was released in May 2011 as part of a general amnesty."
@@ -191,7 +191,10 @@
               ]
             },
             {
-              "text": "Pashinyan's victory had originally been heralded by some observers as a victory for democracy, while others have criticized Pashinyan for just being a populist speech giver."
+              "text": "Under Pashinyan, Armenia has seen a significant improvement in democracy, freedom of the press, and tackling corruption."
+            },
+            {
+              "text": "Armenia's economy has also grown significantly becoming one of the fastest growing economies in the post-Soviet Union."
             }
           ]
         },
@@ -230,10 +233,7 @@
               ]
             },
             {
-              "text": "Pashinyan's government was criticized for making minimal contributions to the war effort and for incompetent leadership."
-            },
-            {
-              "text": "Following the war, Pashinyan was accused of being a traitor and faced protests and calls for his resignation for signing the Russian-brokered truce with Azerbaijan.",
+              "text": "Following the war, Pashinyan faced protests and calls for his resignation for signing the Russian-brokered truce with Azerbaijan.",
               "links": [
                 {
                   "text": "protests",
@@ -264,9 +264,6 @@
                   "page": "2021 Armenian parliamentary election"
                 }
               ]
-            },
-            {
-              "text": "Kocharyan's party disputed the election results and accused Pashinyan of electoral fraud."
             }
           ]
         }
@@ -511,6 +508,16 @@
           "type": "web"
         },
         {
+          "last1": "Bhutia",
+          "first1": "Sam",
+          "title": "Unpacking Armenia's resilient economic growth",
+          "url": "https://eurasianet.org/unpacking-armenias-resilient-economic-growth#:~:text=Armenia%20has%20one%20of%20fastest,statistics%20are%20unreliable%20at%20best",
+          "website": "eurasianet.org",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "title": "Rival Rallies In Yerevan As Armenia Reels From Nagorno-Karabakh Truce",
           "url": "https://www.rferl.org/a/armenia-yerevan-pashinian-rival-rallies/30957246.html",
           "work": "RFE/RL",
@@ -537,15 +544,6 @@
           "publisher": "Deutsche Welle",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "title": "Former Chief of Armenian Armed Forces Lambasts Pashinyan; Calls Him a 'Populist Showman'",
-          "url": "https://hetq.am/en/article/131770",
-          "work": "Hetq",
-          "date": "5 June 2021",
-          "access-date": "22 October 2021",
-          "template": "citation",
-          "type": "news"
         },
         {
           "title": "Armenia's armed forces demand resignation of PM and government: Ifax",
