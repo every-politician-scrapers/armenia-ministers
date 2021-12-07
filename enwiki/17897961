@@ -119,7 +119,7 @@
               "text": "Blamed for \"organizing mass disorders\", he went into hiding until mid-2009."
             },
             {
-              "text": "He was controversially sentenced to seven years in prison; a move seen as politically motivated."
+              "text": "He was controversially sentenced to seven years in prison, a move seen as politically motivated."
             },
             {
               "text": "He was released in May 2011 as part of a general amnesty."
@@ -143,7 +143,7 @@
         {
           "sentences": [
             {
-              "text": "Pashinyan broke from Ter-Petrosyan on political grounds, establishing the party Civil Contract.",
+              "text": "Pashinyan later broke from Ter-Petrosyan on political grounds, establishing the party Civil Contract.",
               "links": [
                 {
                   "text": "Civil Contract",
@@ -181,12 +181,12 @@
               ]
             },
             {
-              "text": "On 1 May 2018, he failed to gain enough votes from the Parliament to become the Prime Minister himself, but was elected in the second vote on 8 May.",
+              "text": "He was elected acting prime minister by parliament on 8 May 2018 and won snap parliamentary elections in December 2018.",
               "links": [
                 {
-                  "text": "Parliament",
+                  "text": "snap parliamentary elections",
                   "type": "internal",
-                  "page": "National Assembly (Armenia)"
+                  "page": "2018 Armenian parliamentary election"
                 }
               ]
             },
@@ -194,7 +194,7 @@
               "text": "Under Pashinyan, Armenia has seen a significant improvement in democracy, freedom of the press, and tackling corruption."
             },
             {
-              "text": "Armenia's economy has also grown significantly becoming one of the fastest growing economies in the post-Soviet Union."
+              "text": "Armenia's economy has also grown significantly, becoming one of the fastest growing economies in the post-Soviet Union."
             }
           ]
         },
@@ -253,7 +253,7 @@
               ]
             },
             {
-              "text": "On 25 April 2021, Pashinyan announced his formal resignation to allow snap elections to be held in June, although he declared that he would remain as acting prime minister until elections are held."
+              "text": "On 25 April 2021, Pashinyan announced his formal resignation to allow snap elections to be held in June, although he remained as acting prime minister in the leadup to the elections."
             },
             {
               "text": "His party won the 2021 election, receiving more than half of all votes.",
@@ -497,6 +497,16 @@
           "date": "8 May 2018",
           "publisher": "CNN",
           "access-date": "8 May 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2018-12-10",
+          "title": "Armenia election: PM Nikol Pashinyan wins by landslide",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/world-europe-46502681",
+          "access-date": "2021-12-06",
           "template": "citation",
           "type": "news"
         },
