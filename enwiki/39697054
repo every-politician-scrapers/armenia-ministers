@@ -213,12 +213,16 @@
             ]
           },
           "party": {
-            "text": "Civil Contract",
+            "text": "Civil Contract (2018–2021) My Step Alliance",
             "links": [
               {
                 "text": "Civil Contract",
                 "type": "internal",
                 "page": "Civil Contract (Armenia)"
+              },
+              {
+                "type": "internal",
+                "page": "My Step Alliance"
               }
             ]
           },
@@ -248,6 +252,17 @@
           "date": "13 October 2018",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "title": "Հայկ Մարությանը դուրս է եկել ՔՊ-ից անցյալ տարվա նոյեմբերի 9-ից հետո՝ սեփական նախաձեռնությամբ. Վահագն Ալեքսանյան",
+          "url": "https://civic.am/politics/21531-hayk-marutyany-durs-e-ekel-qp-ic-ancyal-tarva-noyemberi-9-ic-heto.html?fbclid=IwAR35O5G-DjTapgMAdOJjkx58QcvwXXhjXHeA46iKeaCRFRT0q0nJy4MwFSg",
+          "work": "civic.am",
+          "date": "13 December 2021",
+          "archive-url": "https://archive.ph/CAkrp",
+          "archive-date": "14 December 2021",
+          "language": "hy",
+          "template": "citation",
+          "type": "news"
         }
       ]
     }
