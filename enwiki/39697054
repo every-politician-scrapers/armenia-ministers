@@ -19,19 +19,22 @@
         {
           "sentences": [
             {
-              "text": "Hayk Marutyan (Հայկ Մարության; born December 18, 1976) is an Armenian actor, comedian, screenwriter, producer and politician currently serving as the mayor of Yerevan.",
+              "text": "Hayk Marutyan (Հայկ Մարության; born December 18, 1976) is an Armenian actor, comedian, screenwriter, producer and politician.",
+              "formatting": {
+                "bold": [
+                  "Hayk Marutyan"
+                ]
+              }
+            },
+            {
+              "text": "He was the mayor of Yerevan from October 2018 to December 2021.",
               "links": [
                 {
                   "text": "mayor of Yerevan",
                   "type": "internal",
                   "page": "mayor of Yerevan"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Hayk Marutyan"
-                ]
-              }
+              ]
             }
           ]
         },
@@ -179,6 +182,9 @@
           "term_start1": {
             "text": "13 October 2018"
           },
+          "term_end1": {
+            "text": "22 December 2021"
+          },
           "predecessor1": {
             "text": "Taron Margaryan Kamo Areyan (acting)",
             "links": [
@@ -189,6 +195,15 @@
               {
                 "type": "internal",
                 "page": "Kamo Areyan"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Hrachya Sargsyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hrachya Sargsyan"
               }
             ]
           },
@@ -250,6 +265,14 @@
           "url": "https://www.yerevan.am/en/news/hayk-marowt-yane-handisavor-erdmnakalowt-yamb-standznel-e-erewani-k-aghak-apeti-liazorowt-yownnere/",
           "website": "yerevan.am",
           "date": "13 October 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "«Հիմա ասեք՝ ո՞վ է շեղվել հեղափոխական արժեքներից». Մարությանը ներկայացրեց ՔՊ-ից դուրս գալու պատճառները",
+          "url": "https://www.azatutyun.am/a/31620992.html/",
+          "website": "azatutyun.am",
+          "date": "22 December 2021",
           "template": "citation",
           "type": "web"
         },
