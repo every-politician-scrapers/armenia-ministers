@@ -1,0 +1,184 @@
+{
+  "title": "Hrachya Sargsyan",
+  "pageID": 69572861,
+  "categories": [
+    "Living people",
+    "1985 births",
+    "Mayors of Yerevan",
+    "21st-century Armenian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hrachya Sargsyan (Հրաչյա Սարգսյան; born February 13, 1985) is an Armenian politician serving as Mayor of Yerevan from 22 December 2021.",
+              "links": [
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "Politics of Armenia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yerevan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Hrachya Sargsyan"
+                ]
+              }
+            },
+            {
+              "text": "He adhered to Arakelutyun Party previously, and currently to My Step Alliance.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "My Step Alliance"
+                }
+              ]
+            },
+            {
+              "text": "He was elected a deputy mayor per snap elections of Yerevan City Council on 23 September 2018 on My Step Alliance list, and was appointed as deputy mayor in October 2018."
+            },
+            {
+              "text": "Sargsyan became a mayor on 22 December 2021 when the incumbent mayor Hayk Marutyan lost the no confidence vote.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hayk Marutyan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Armenian politician",
+          "template": "short description"
+        },
+        {
+          "for": "source fixing",
+          "date": "December 2021",
+          "template": "copy edit"
+        },
+        {
+          "date": "December 2021",
+          "template": "underlinked"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
+          "year": "1985",
+          "month": "02",
+          "day": "13",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Hrachya Sargsyan"
+          },
+          "office1": {
+            "text": "59th Mayor of Yerevan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mayor of Yerevan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "22 December 2021"
+          },
+          "predecessor1": {
+            "text": "Hayk Marutyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hayk Marutyan"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 13, 1985"
+          },
+          "birth_place": {
+            "text": "Yerevan, Armenian SSR, Soviet Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yerevan"
+              },
+              {
+                "type": "internal",
+                "page": "Armenian SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "party": {
+            "text": "My Step Alliance (2018–)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "My Step Alliance"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Armenian",
+            "links": [
+              {
+                "text": "Armenian",
+                "type": "internal",
+                "page": "Armenians"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "politician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Երևանի քաղաքապետ ընտրվեց Հրաչյա Սարգսյանը",
+          "url": "https://www.yerevan.am/am/news/erewani-k-aghak-apet-entrvets-hrach-ya-sargsyane/",
+          "access-date": "2021-12-22",
+          "website": "https://www.yerevan.am",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Yerevan Mayor Hayk Marutyan loses no-confidence vote, Hrachya Sargsyan named successor",
+          "url": "https://armenpress.am/eng/news/1071423/",
+          "access-date": "2021-12-22",
+          "website": "armenpress.am",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Երևանի քաղաքապետ ընտրվեց Հրաչյա Սարգսյանը",
+          "url": "https://www.azatutyun.am/a/31621165.html",
+          "website": "azatutyun.am",
+          "date": "22 December 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
