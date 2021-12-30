@@ -1,14 +1,14 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q100691234,Andranik Piloyan,Andranik Piloyan,male,1962-01-01,9,https://www.gov.am/en/gov-members/,Q108315415,Minister of Emergency Situations,Q100691234-C9625747-AEF5-4902-8BF3-2D81777C4AE6
-Q108315645,Vahram Dumanyan,Vahram Dumanyan,male,1962-09-09,11,https://www.gov.am/en/gov-members/,Q20517801,"Minister of Education, Science, Culture and Sport",Q108315645-F7116CBD-435E-48AC-8E5B-81AD1692BB05
-Q108315659,Vahan Kerobyan,Vahan Kerobyan,male,1976-10-01,11,https://www.gov.am/en/gov-members/,Q56762129,Minister of Economy,Q108315659-EF0D9199-F374-483A-883F-58BF03C03677
-Q108315666,Tigran Khachatryan,Tigran Khachatryan,male,1970-12-11,11,https://www.gov.am/en/gov-members/,Q20517836,Minister of Finance,Q108315666-A85068C5-EDFA-401D-99C3-EA5449EC506E
-Q31196321,Ararat Mirzoyan,Ararat Mirzoyan,male,1979-11-23,11,https://www.gov.am/en/gov-members/,Q20517766,Minister of Foreign Affairs,Q31196321-374C4078-302A-402F-8CB2-E172EB8556CA
-Q3553274,Vahagn Khachaturyan,Vahagn Khachatryan,male,1959-04-22,11,https://www.gov.am/en/gov-members/,Q108315247,Minister of High-Tech Industry,Q3553274-E5B19DE4-51FA-43D3-B603-3C9B68BAFCFF
-Q53140569,Suren Papikyan,Souren Papikyan,male,1986-04-26,11,https://www.gov.am/en/gov-members/,Q19966859,Minister of Defense,Q53140569-479F368A-2A59-4C46-AD25-D1BFDDF6D535
-Q57269722,Gnel Sanosyan,Gnel Sanosyan,male,1983-10-07,11,https://www.gov.am/en/gov-members/,Q108315714,Minister of Territorial Administration and Infrastructures,Q57269722-0C9D64B7-E0C3-4F21-8581-D10D9452A5C6
-Q60492375,Hakob Simidyan,Hakob Simidyan,male,1984-04-20,11,https://www.gov.am/en/gov-members/,Q108315673,Minister of Environment,Q60492375-8bc1f719-4483-3f50-665e-01fa237b110a
-Q6369479,Karen Andreasyan,Karen Andreasyan,male,1977-09-10,11,https://www.gov.am/en/gov-members/,Q20517763,Minister of Justice,Q6369479-58A0D238-89DD-42D9-B82D-ABD4FF3D3135
-Q63762730,Narek Mkrtchyan,Narek Mkrtchyan,male,1989-06-20,11,https://www.gov.am/en/gov-members/,Q108315265,Minister of Labor and Social Affairs,Q63762730-DDC9428F-45B6-463C-B6A1-A685A77612FA
-Q7035479,Nikol Pashinyan,Nikol Pashinyan,male,1975-06-01,11,,Q1123764,Prime Minister of Armenia,Q7035479-27d38f52-4aa1-33aa-6949-bcf58fc0c5e5
-Q87244322,Anahit Avanesyan,Anahit Avanesian,female,1981-03-21,11,https://www.gov.am/en/gov-members/,Q108315286,Minister of Health,Q87244322-189BDC8F-47D7-4E86-A798-88323289D98E
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q100691234,Andranik Piloyan,Andranik Piloyan,male,1962-01-01,9,https://www.gov.am/en/gov-members/,2021-08-29,Q108315415,Minister of Emergency Situations,2020-11-20,Q100691234-C9625747-AEF5-4902-8BF3-2D81777C4AE6
+Q108315645,Vahram Dumanyan,Vahram Dumanyan,male,1962-09-09,11,https://www.gov.am/en/gov-members/,2021-08-29,Q20517801,"Minister of Education, Science, Culture and Sport",2021-08-02,Q108315645-F7116CBD-435E-48AC-8E5B-81AD1692BB05
+Q108315659,Vahan Kerobyan,Vahan Kerobyan,male,1976-10-01,11,https://www.gov.am/en/gov-members/,2021-08-29,Q56762129,Minister of Economy,2021-08-02,Q108315659-EF0D9199-F374-483A-883F-58BF03C03677
+Q108315666,Tigran Khachatryan,Tigran Khachatryan,male,1970-12-11,11,https://www.gov.am/en/gov-members/,2021-08-29,Q20517836,Minister of Finance,2021-08-02,Q108315666-A85068C5-EDFA-401D-99C3-EA5449EC506E
+Q31196321,Ararat Mirzoyan,Ararat Mirzoyan,male,1979-11-23,11,https://www.gov.am/en/gov-members/,2021-08-29,Q20517766,Minister of Foreign Affairs,2021-08-19,Q31196321-374C4078-302A-402F-8CB2-E172EB8556CA
+Q3553274,Vahagn Khachaturyan,Vahagn Khachatryan,male,1959-04-22,11,https://www.gov.am/en/gov-members/,2021-08-29,Q108315247,Minister of High-Tech Industry,2021-08-02,Q3553274-E5B19DE4-51FA-43D3-B603-3C9B68BAFCFF
+Q53140569,Suren Papikyan,Souren Papikyan,male,1986-04-26,11,https://www.gov.am/en/gov-members/,2021-11-16,Q19966859,Minister of Defense,2021-11-15,Q53140569-479F368A-2A59-4C46-AD25-D1BFDDF6D535
+Q57269722,Gnel Sanosyan,Gnel Sanosyan,male,1983-10-07,11,https://www.gov.am/en/gov-members/,2021-08-29,Q108315714,Minister of Territorial Administration and Infrastructures,2021-08-02,Q57269722-0C9D64B7-E0C3-4F21-8581-D10D9452A5C6
+Q60492375,Hakob Simidyan,Hakob Simidyan,male,1984-04-20,11,https://www.gov.am/en/gov-members/,2021-12-12,Q108315673,Minister of Environment,2021-12-10,Q60492375-8bc1f719-4483-3f50-665e-01fa237b110a
+Q6369479,Karen Andreasyan,Karen Andreasyan,male,1977-09-10,11,https://www.gov.am/en/gov-members/,2021-08-29,Q20517763,Minister of Justice,2021-08-02,Q6369479-58A0D238-89DD-42D9-B82D-ABD4FF3D3135
+Q63762730,Narek Mkrtchyan,Narek Mkrtchyan,male,1989-06-20,11,https://www.gov.am/en/gov-members/,2021-08-29,Q108315265,Minister of Labor and Social Affairs,2021-04-23,Q63762730-DDC9428F-45B6-463C-B6A1-A685A77612FA
+Q7035479,Nikol Pashinyan,Nikol Pashinyan,male,1975-06-01,11,,,Q1123764,Prime Minister of Armenia,2021-06-20,Q7035479-27d38f52-4aa1-33aa-6949-bcf58fc0c5e5
+Q87244322,Anahit Avanesyan,Anahit Avanesian,female,1981-03-21,11,https://www.gov.am/en/gov-members/,2021-08-29,Q108315286,Minister of Health,2021-01-01,Q87244322-189BDC8F-47D7-4E86-A798-88323289D98E
