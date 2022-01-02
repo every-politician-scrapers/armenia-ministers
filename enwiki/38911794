@@ -164,40 +164,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "script-title": "hy:Վահագն Գառնիկի Խաչատրյան",
-          "url": "http://www.yerevan.am/edfiles/files/vahagnkhachatryan.pdf",
-          "publisher": "Yerevan Municipality",
-          "access-date": "25 March 2013",
-          "language": "hy",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Former mayors of Yerevan",
-          "url": "http://www.yerevan.am/3_115_%D4%B5%D6%80%D6%87%D5%A1%D5%B6%D5%AB%20%D5%B6%D5%A1%D5%AD%D5%AF%D5%AB%D5%B6%20%D6%84%D5%A1%D5%B2%D5%A1%D6%84%D5%A1%D5%BA%D5%A5%D5%BF%D5%B6%D5%A5%D6%80%D5%A8.html",
-          "publisher": "Yerevan Municipality Official Website",
-          "access-date": "25 March 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "ANC rep. Vahagn Khachatryan to run for Yerevan mayor?",
-          "url": "http://www.panarmenian.net/eng/news/150443/",
-          "access-date": "25 March 2013",
-          "date": "19 March 2013",
-          "agency": "PanARMENIAN.Net",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
