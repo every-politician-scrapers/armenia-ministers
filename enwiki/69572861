@@ -15,16 +15,12 @@
         {
           "sentences": [
             {
-              "text": "Hrachya Sargsyan (Հրաչյա Սարգսյան; born February 13, 1985) is an Armenian politician serving as Mayor of Yerevan from 22 December 2021.",
+              "text": "Hrachya Sargsyan (Հրաչյա Սարգսյան; born February 13, 1985) is an Armenian politician.",
               "links": [
                 {
                   "text": "politician",
                   "type": "internal",
                   "page": "Politics of Armenia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Yerevan"
                 }
               ],
               "formatting": {
@@ -34,7 +30,16 @@
               }
             },
             {
-              "text": "He adhered to Arakelutyun Party previously, and currently to My Step Alliance.",
+              "text": "He became Mayor of Yerevan on 22 December 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yerevan"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of My Step Alliance party.",
               "links": [
                 {
                   "type": "internal",
@@ -43,10 +48,10 @@
               ]
             },
             {
-              "text": "He was elected a deputy mayor per snap elections of Yerevan City Council on 23 September 2018 on My Step Alliance list, and was appointed as deputy mayor in October 2018."
+              "text": "He was elected Deputy Mayor per snap elections of Yerevan City Council on 23 September 2018 for My Step Alliance, and was appointed as deputy mayor in October 2018."
             },
             {
-              "text": "Sargsyan became a mayor on 22 December 2021 when the incumbent mayor Hayk Marutyan lost the no confidence vote.",
+              "text": "Sargsyan became Mayor on 22 December 2021 when incumbent mayor Hayk Marutyan lost a no confidence vote.",
               "links": [
                 {
                   "type": "internal",
@@ -61,11 +66,6 @@
         {
           "description": "Armenian politician",
           "template": "short description"
-        },
-        {
-          "for": "source fixing",
-          "date": "December 2021",
-          "template": "copy edit"
         },
         {
           "year": "1985",
