@@ -143,7 +143,7 @@
         {
           "sentences": [
             {
-              "text": "Pashinyan later broke from Ter-Petrosyan on political grounds, establishing the party Civil Contract.",
+              "text": "Pashinyan later distanced himself from Ter-Petrosyan on political grounds, establishing the party Civil Contract.",
               "links": [
                 {
                   "text": "Civil Contract",
@@ -262,6 +262,19 @@
                   "text": "2021 election",
                   "type": "internal",
                   "page": "2021 Armenian parliamentary election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Pashinyan took the leadership of the Collective Security Treaty Organization on rotational basis for 16 September 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Collective Security Treaty Organization"
                 }
               ]
             }
