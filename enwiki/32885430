@@ -66,7 +66,7 @@
               ]
             },
             {
-              "text": "From 1997 to 2000 he worked in certain state bodies of the Republic of Armenia, including the Yerevan City Council, the Ministry of Defense of Armenia, and the First Instance Court."
+              "text": "From 1997 to 2000 he worked in certain state bodies of Armenia, including the Yerevan City Council, the Ministry of Defense of Armenia, and the First Instance Court."
             },
             {
               "text": "He also taught human rights and administrative law at Secondary School N120 and the Armenian Police Academy."
@@ -88,16 +88,28 @@
             },
             {
               "text": "From 2005 to 2008 Andreasyan worked at the American Bar Association as a lawyer, then as a senior staff attorney and finally as a deputy director."
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "From 2006 to 2007 He served as an advisor to the president of the Constitutional Court of the Republic of Armenia."
-            },
+              "text": "From 2006 to 2007 he served as an advisor to the president of the Constitutional Court of Armenia."
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "From 2008 to 2011 he founded and worked as a managing partner of “DEFENCE” Law Firm, which later merged with another company and renamed “AM” Law Firm."
             },
             {
               "text": "It is currently is one of the leading firms in Armenia."
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "From 2007 to 2010 he conducted a number of television and civic projects."
             },
@@ -153,10 +165,10 @@
             "text": "Karen Andreasyan"
           },
           "office1": {
-            "text": "Minister of Justice of the Republic of Armenia",
+            "text": "Minister of Justice of Armenia",
             "links": [
               {
-                "text": "Minister of Justice of the Republic of Armenia",
+                "text": "Minister of Justice of Armenia",
                 "type": "internal",
                 "page": "Ministry of Justice (Armenia)"
               }
