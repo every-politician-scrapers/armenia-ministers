@@ -41,16 +41,12 @@
 +++,Gurgen Pahlevanian,,1957-06-02,1960-03-21
 ->,Souren Vardanyan->Souren Vartanian,Q55651151->NULL,1960-03-22,1962-12-06
 +++,Grigor Hasratian,,1962-12-17,1975-02-12
----,Mourad Mouradian,Q3326114,1975-01-01,1985-01-01
 +++,Hrant Enkitarian,,1975-03-18,1975-04-28
-+++,Murad Muradian,,1975-05-01,1985-12-09
+->,Mourad Mouradian->Murad Muradian,Q3326114->NULL,1975-05-01,1985-12-09
 +++,Eduard Avakian,,1985-12-10,1989-10-09
 +++,Artashes Geghamyan,Q2383515,1989-11-10,1990-10-02
 ->,Hambartsoum Galstian->Hambardzum Galstyan,Q3126354,1990-12-04,1992-12-22
 +++,Ashot Mirzoyan,,1996-02-23,1996-11-07
 ->,Suren Abrahamyan,Q3505201->NULL,1998-05-01->1998-05-06,1999-06-15
-+++,Albert Bazeyan,Q2830950,1999-08-09,2001-01-10
-+++,Robert Nazaryan,Q3435991,2001-01-11,2003-06-30
-+++,Gagik Beglaryan,Q1977367,2009-06-11,2010-12-08
 ->,Karen Karapetyan,Q1979923,2010-12-17,2011-11-15->2011-11
 ->,Kamo Areyan,Q4069098,2018-07-09,2018-10-10->2018-10-13
