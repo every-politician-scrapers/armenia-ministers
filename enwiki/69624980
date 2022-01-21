@@ -36,7 +36,7 @@
               "text": "He formerly served as Minister of Territorial Administration and Infrastructure and briefy as Deputy Prime Minister of Armenia."
             },
             {
-              "text": "He is also chairman of the ruling Civil Contract Party.",
+              "text": "He is also chairman of the board of the ruling Civil Contract Party.",
               "links": [
                 {
                   "text": "Civil Contract Party",
@@ -204,6 +204,40 @@
               {
                 "type": "internal",
                 "page": "Saint Petersburg State University"
+              }
+            ]
+          },
+          "termend2": {
+            "text": "August 2, 2021"
+          },
+          "termstart2": {
+            "text": "May 11, 2018"
+          },
+          "successor2": {
+            "text": "Gnel Sanosyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gnel Sanosyan"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Territorial Administration and Infrastructure of Armenia",
+            "links": [
+              {
+                "text": "Minister of Territorial Administration and Infrastructure of Armenia",
+                "type": "internal",
+                "page": "Ministry of Territorial Administration and Infrastructure"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Davit Lokyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Davit Lokyan"
               }
             ]
           }
