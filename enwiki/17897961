@@ -320,7 +320,7 @@
             "text": "Nikol Pashinyan"
           },
           "image": {
-            "text": "Besuch des Ministerpräsidenten von Armenien, Nikol Pashinyan, im Kölner Rathaus-2162.jpg"
+            "text": "Никол Пашинян (09-03-2020).jpg"
           },
           "caption": {
             "text": "Pashinyan in 2019"
@@ -335,11 +335,15 @@
             ]
           },
           "president": {
-            "text": "Armen Sarkissian",
+            "text": "Armen Sarkissian Alen Simonyan (acting)",
             "links": [
               {
                 "type": "internal",
                 "page": "Armen Sarkissian"
+              },
+              {
+                "type": "internal",
+                "page": "Alen Simonyan"
               }
             ]
           },
