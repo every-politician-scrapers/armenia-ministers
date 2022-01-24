@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Alen Simonyan (Armenian:Ալեն Սիմոնյան; born 5 January 1980) is an Armenian politician, Vice President of the National Assembly of Armenia and former member of Yerevan City Council.",
+              "text": "Alen Roberti Simonyan (Armenian:Ալեն Ռոբերտի Սիմոնյան; born 5 January 1980) is an Armenian politician, President of the National Assembly of Armenia, acting President of Armenia and former member of Yerevan City Council.",
               "links": [
                 {
                   "text": "Armenian",
@@ -30,12 +30,16 @@
                 },
                 {
                   "type": "internal",
+                  "page": "President of Armenia"
+                },
+                {
+                  "type": "internal",
                   "page": "Yerevan City Council"
                 }
               ],
               "formatting": {
                 "bold": [
-                  "Alen Simonyan"
+                  "Alen Roberti Simonyan"
                 ]
               }
             }
@@ -76,6 +80,36 @@
             "text": "Alen Simonyan"
           },
           "office": {
+            "text": "Acting President of Armenia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Armenia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 January 2022"
+          },
+          "primeminister": {
+            "text": "Nikol Pashinyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nikol Pashinyan"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Armen Sarkissian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Armen Sarkissian"
+              }
+            ]
+          },
+          "office1": {
             "text": "President of the National Assembly of Armenia",
             "links": [
               {
@@ -84,10 +118,10 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "2 August 2021"
           },
-          "predecessor": {
+          "predecessor1": {
             "text": "Ararat Mirzoyan",
             "links": [
               {
@@ -96,7 +130,7 @@
               }
             ]
           },
-          "office1": {
+          "office2": {
             "text": "Vice President of National Assembly",
             "links": [
               {
@@ -112,7 +146,7 @@
           "image": {
             "text": "Alen Simonyan.jpg"
           },
-          "alongside1": {
+          "alongside2": {
             "text": "Lena Nazaryan and Vahe Enfiajyan",
             "links": [
               {
@@ -125,7 +159,7 @@
               }
             ]
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Eduard Sharmazanov Arpine Hovhannisyan Mikayel Melkumyan",
             "links": [
               {
@@ -142,13 +176,13 @@
               }
             ]
           },
-          "termstart1": {
+          "termstart2": {
             "text": "15 January 2019"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "2 August 2021"
           },
-          "office3": {
+          "office4": {
             "text": "Member of the Yerevan City Council",
             "links": [
               {
@@ -167,7 +201,7 @@
               }
             ]
           },
-          "1blankname1": {
+          "1blankname2": {
             "text": "President",
             "links": [
               {
@@ -177,7 +211,7 @@
               }
             ]
           },
-          "1namedata1": {
+          "1namedata2": {
             "text": "Ararat Mirzoyan",
             "links": [
               {
@@ -186,7 +220,7 @@
               }
             ]
           },
-          "office2": {
+          "office3": {
             "text": "Member of the National Assembly",
             "links": [
               {
@@ -196,14 +230,14 @@
               }
             ]
           },
-          "termstart2": {
+          "termstart3": {
             "text": "16 May 2018"
           },
-          "termend3": {
+          "termend4": {
             "text": "2018",
             "number": 2018
           },
-          "termstart3": {
+          "termstart4": {
             "text": "2017",
             "number": 2017
           },

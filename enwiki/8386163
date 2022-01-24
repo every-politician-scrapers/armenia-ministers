@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Armen Vardani Sarkissian (Արմեն Վարդանի Սարգսյան; also written as Sarksyan and Sargsyan) (born 23 June 1952) is an Armenian politician, physicist and computer scientist who has served as the 4th President of Armenia since 2018.",
+              "text": "Armen Vardani Sarkissian (Արմեն Վարդանի Սարգսյան; also written as Sarksyan and Sargsyan) (born 23 June 1952) is an Armenian politician, physicist and computer scientist who served as the 4th President of Armenia from 9 April 2018 to 23 January 2022.",
               "links": [
                 {
                   "type": "internal",
@@ -55,14 +55,21 @@
                   "page": "2018 Armenian presidential election"
                 }
               ]
+            },
+            {
+              "text": "He resigned on 23 January 2022."
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "President of Armenia since 2018",
+          "description": "Former President of Armenia (2018-2022)",
           "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "more citations needed"
         },
         {
           "year": "1952",
@@ -132,12 +139,24 @@
           "term_start": {
             "text": "9 April 2018"
           },
+          "term_end": {
+            "text": "23 January 2022"
+          },
           "predecessor": {
             "text": "Serzh Sargsyan",
             "links": [
               {
                 "type": "internal",
                 "page": "Serzh Sargsyan"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Alen Simonyan (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alen Simonyan"
               }
             ]
           },
