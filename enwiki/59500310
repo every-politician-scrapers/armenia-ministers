@@ -16,12 +16,26 @@
         {
           "sentences": [
             {
-              "text": "Alen Roberti Simonyan (Armenian:Ալեն Ռոբերտի Սիմոնյան; born 5 January 1980) is an Armenian politician, President of the National Assembly of Armenia, acting President of Armenia and former member of Yerevan City Council.",
+              "text": "Alen Roberti Simonyan (Armenian:Ալեն Ռոբերտի Սիմոնյան; born 5 January 1980) is an Armenian politician.",
               "links": [
                 {
                   "text": "Armenian",
                   "type": "internal",
                   "page": "Armenian language"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alen Roberti Simonyan"
+                ]
+              }
+            },
+            {
+              "text": "He is the acting President of Armenia, the President of the National Assembly of Armenia, and a former member of Yerevan City Council.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Armenia"
                 },
                 {
                   "text": "National Assembly of Armenia",
@@ -30,18 +44,9 @@
                 },
                 {
                   "type": "internal",
-                  "page": "President of Armenia"
-                },
-                {
-                  "type": "internal",
                   "page": "Yerevan City Council"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Alen Roberti Simonyan"
-                ]
-              }
+              ]
             }
           ]
         }
@@ -50,17 +55,6 @@
         {
           "description": "Armenian politician (born 1980)",
           "template": "short description"
-        },
-        {
-          "date": "June 2020",
-          "template": "cleanup rewrite"
-        },
-        {
-          "date": "June 2020",
-          "template": "like resume"
-        },
-        {
-          "template": "multiple issues"
         },
         {
           "date": "January 2019",
@@ -262,9 +256,10 @@
             ]
           },
           "children": {
-            "text": "Robert Simonyan and Vitoria Simonyan"
+            "text": "2",
+            "number": 2
           },
-          "alma_mater": {
+          "education": {
             "text": "Yerevan State University",
             "links": [
               {
@@ -272,12 +267,6 @@
                 "page": "Yerevan State University"
               }
             ]
-          },
-          "occupation": {
-            "text": "Politician Lawyer"
-          },
-          "image_size": {
-            "text": "250px"
           }
         }
       ]
