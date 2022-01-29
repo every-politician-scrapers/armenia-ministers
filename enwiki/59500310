@@ -16,12 +16,11 @@
         {
           "sentences": [
             {
-              "text": "Alen Roberti Simonyan (Armenian:Ալեն Ռոբերտի Սիմոնյան; born 5 January 1980) is an Armenian politician.",
+              "text": "Alen Roberti Simonyan (Ալեն Ռոբերտի Սիմոնյան; born 5 January 1980) is an Armenian politician currently serving as the acting President of Armenia.",
               "links": [
                 {
-                  "text": "Armenian",
                   "type": "internal",
-                  "page": "Armenian language"
+                  "page": "President of Armenia"
                 }
               ],
               "formatting": {
@@ -31,12 +30,8 @@
               }
             },
             {
-              "text": "He is the acting President of Armenia, the President of the National Assembly of Armenia, and a former member of Yerevan City Council.",
+              "text": "He also serves as the President of the National Assembly of Armenia, and a former member of Yerevan City Council.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "President of Armenia"
-                },
                 {
                   "text": "National Assembly of Armenia",
                   "type": "internal",
