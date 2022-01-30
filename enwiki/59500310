@@ -61,6 +61,12 @@
           "month": "1",
           "day": "5",
           "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Armenia"
+          ],
+          "template": "army"
         }
       ],
       "infoboxes": [
@@ -76,6 +82,9 @@
                 "page": "President of Armenia"
               }
             ]
+          },
+          "status": {
+            "text": "Acting"
           },
           "term_start": {
             "text": "23 January 2022"
@@ -263,8 +272,18 @@
               }
             ]
           },
-          "status": {
-            "text": "Acting"
+          "allegiance": {
+            "text": "🇦🇲 Armenia",
+            "links": [
+              {
+                "text": "Armenia",
+                "type": "internal",
+                "page": "armenia"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "2000–2002"
           }
         }
       ]
