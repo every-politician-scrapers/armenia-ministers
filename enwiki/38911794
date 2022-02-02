@@ -87,6 +87,28 @@
             "text": "Vahagn Khachaturyan.jpg"
           },
           "office3": {
+            "text": "Minister of High-Tech Industry",
+            "links": [
+              {
+                "text": "High-Tech Industry",
+                "type": "internal",
+                "page": "Ministry of High-Tech Industry (Armenia)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "August 4, 2021"
+          },
+          "predecessor3": {
+            "text": "Hayk Chobanyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hayk Chobanyan"
+              }
+            ]
+          },
+          "office4": {
             "text": "Mayor of Yerevan",
             "links": [
               {
@@ -95,13 +117,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "December 4, 1992"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "February 22, 1996"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Hambardzum Galstyan",
             "links": [
               {
@@ -110,27 +132,12 @@
               }
             ]
           },
-          "successor3": {
+          "successor4": {
             "text": "Ashot Mirzoyan",
             "links": [
               {
                 "type": "internal",
                 "page": "Ashot Mirzoyan"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of High-Tech Industry"
-          },
-          "term_start4": {
-            "text": "August 4, 2021"
-          },
-          "predecessor4": {
-            "text": "Hayk Chobanyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hayk Chobanyan"
               }
             ]
           },
@@ -147,6 +154,16 @@
               {
                 "type": "internal",
                 "page": "Soviet Armenia"
+              }
+            ]
+          },
+          "party": {
+            "text": "ANC",
+            "links": [
+              {
+                "text": "ANC",
+                "type": "internal",
+                "page": "Armenian National Congress"
               }
             ]
           },
