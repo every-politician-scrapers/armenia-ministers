@@ -13,12 +13,8 @@
         {
           "sentences": [
             {
-              "text": "Vahagn Khachatryan (Վահագն Խաչատուրյան, Vahagn Khachaturyan; born July 26, 1959 in Sisian) is an Armenian politician.",
+              "text": "Vahagn Garniki Khachaturyan (Վահագն Գառնիկի Խաչատուրյան; born July 26, 1959) is an Armenian politician.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Sisian"
-                },
                 {
                   "text": "Armenian",
                   "type": "internal",
@@ -27,7 +23,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Vahagn Khachatryan"
+                  "Vahagn Garniki Khachaturyan"
                 ]
               }
             },
@@ -50,12 +46,17 @@
         {
           "sentences": [
             {
-              "text": "He is a member of the Armenian National Congress and led the ANC list in the 2013 Yerevan City Council election.",
+              "text": "He was a member of the Armenian National Congress until his resignation in 2017.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Armenian National Congress"
-                },
+                }
+              ]
+            },
+            {
+              "text": "He led the ANC list in the 2013 Yerevan City Council election, and is currently an independent.",
+              "links": [
                 {
                   "text": "2013 Yerevan City Council election",
                   "type": "internal",
@@ -84,7 +85,7 @@
             "text": "Vahagn Khachaturyan"
           },
           "image": {
-            "text": "Vahagn Khachaturyan.jpg"
+            "text": "Vahagn Khachaturyan in 2021.jpg"
           },
           "office3": {
             "text": "Minister of High-Tech Industry",
@@ -158,7 +159,17 @@
             ]
           },
           "party": {
-            "text": "ANC",
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "ANC (2013-2017)",
             "links": [
               {
                 "text": "ANC",
