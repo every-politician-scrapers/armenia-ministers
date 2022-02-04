@@ -180,16 +180,6 @@
           },
           "occupation": {
             "text": "Politician"
-          },
-          "profession": {
-            "text": "Armenian",
-            "links": [
-              {
-                "text": "Armenian",
-                "type": "internal",
-                "page": "Armenians"
-              }
-            ]
           }
         }
       ]
