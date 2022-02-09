@@ -76,16 +76,13 @@
             "text": "Alen Simonyan"
           },
           "office": {
-            "text": "President of Armenia",
+            "text": "Acting President of Armenia",
             "links": [
               {
                 "type": "internal",
                 "page": "President of Armenia"
               }
             ]
-          },
-          "status": {
-            "text": "Acting"
           },
           "term_start": {
             "text": "1 February 2022"
