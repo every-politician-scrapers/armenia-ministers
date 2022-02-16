@@ -4,9 +4,9 @@
   "categories": [
     "1980 births",
     "Living people",
-    "Presidents of the National Assembly (Armenia)",
     "Members of the National Assembly (Armenia)",
-    "Politicians from Yerevan"
+    "Politicians from Yerevan",
+    "Presidents of the National Assembly (Armenia)"
   ],
   "sections": [
     {
@@ -257,9 +257,12 @@
               }
             ]
           },
+          "spouse": {
+            "text": "Mariam Margaryan"
+          },
           "children": {
-            "text": "2",
-            "number": 2
+            "text": "3",
+            "number": 3
           },
           "education": {
             "text": "Yerevan State University",
