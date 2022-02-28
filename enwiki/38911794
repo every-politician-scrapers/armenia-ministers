@@ -13,7 +13,7 @@
         {
           "sentences": [
             {
-              "text": "Vahagn Garniki Khachaturyan (Վահագն Գառնիկի Խաչատուրյան; born July 26, 1959) is an Armenian politician.",
+              "text": "Vahagn Garniki Khachaturyan (Վահագն Գառնիկի Խաչատուրյան; born 26 July 1959) is an Armenian politician.",
               "links": [
                 {
                   "text": "Armenian",
@@ -73,9 +73,14 @@
           "template": "short description"
         },
         {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1959",
           "month": "7",
           "day": "26",
+          "df": "y",
           "template": "birth date and age"
         }
       ],
@@ -97,8 +102,17 @@
               }
             ]
           },
+          "primeminister3": {
+            "text": "Nikol Pashinyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nikol Pashinyan"
+              }
+            ]
+          },
           "term_start3": {
-            "text": "August 4, 2021"
+            "text": "4 August 2021"
           },
           "predecessor3": {
             "text": "Hayk Chobanyan",
@@ -119,10 +133,10 @@
             ]
           },
           "term_start4": {
-            "text": "December 4, 1992"
+            "text": "4 December 1992"
           },
           "term_end4": {
-            "text": "February 22, 1996"
+            "text": "22 February 1996"
           },
           "predecessor4": {
             "text": "Hambardzum Galstyan",
@@ -146,15 +160,16 @@
             "text": "July 26, 1959"
           },
           "birth_place": {
-            "text": "Sisian, Soviet Armenia",
+            "text": "Sisian, Armenia SSR",
             "links": [
               {
                 "type": "internal",
                 "page": "Sisian"
               },
               {
+                "text": "Armenia SSR",
                 "type": "internal",
-                "page": "Soviet Armenia"
+                "page": "Armenian Soviet Socialist Republic"
               }
             ]
           },
