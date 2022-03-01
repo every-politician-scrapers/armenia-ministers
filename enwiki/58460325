@@ -15,16 +15,12 @@
         {
           "sentences": [
             {
-              "text": "Artak Matevosi Davtyan (Armenian: Արտակ Մաթևոսի Դավթյան; born in 1970 in Bambakashat) is an Armenian Lieutenant General who is currently serving as the Chief of the General Staff of the Armenian Armed Forces.",
+              "text": "Artak Matevosi Davtyan (Armenian: Արտակ Մաթևոսի Դավթյան; born March 31, 1970) is an Armenian Lieutenant General who served as the Chief of the General Staff of the Armenian Armed Forces from May 2018 to June 2020 and again from March 2021 to February 2022.",
               "links": [
                 {
                   "text": "Armenian",
                   "type": "internal",
                   "page": "Armenian language"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bambakashat"
                 },
                 {
                   "text": "Chief of the General Staff of the Armenian Armed Forces",
@@ -37,12 +33,6 @@
                   "Artak Matevosi Davtyan"
                 ]
               }
-            },
-            {
-              "text": "He previously held this position from May 2018 until his dismissal in June 2020."
-            },
-            {
-              "text": "He was reappointed Chief of the General Staff in March 2021."
             }
           ]
         }
@@ -105,8 +95,20 @@
               }
             ]
           },
+          "successor": {
+            "text": "Kamo Kochunts (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kamo Kochunts"
+              }
+            ]
+          },
           "term_start": {
             "text": "March 22, 2021"
+          },
+          "term_end": {
+            "text": "February 24, 2022"
           },
           "predecessor1": {
             "text": "Movses Hakobyan",
