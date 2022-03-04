@@ -13,12 +13,16 @@
         {
           "sentences": [
             {
-              "text": "Vahagn Garniki Khachaturyan (Վահագն Գառնիկի Խաչատուրյան; born 26 July 1959) is an Armenian politician.",
+              "text": "Vahagn Garniki Khachaturyan (Վահագն Գառնիկի Խաչատուրյան; born 26 July 1959) is an Armenian politician currently serving as the President of Armenia.",
               "links": [
                 {
                   "text": "Armenian",
                   "type": "internal",
                   "page": "Armenia"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of Armenia"
                 }
               ],
               "formatting": {
@@ -28,7 +32,7 @@
               }
             },
             {
-              "text": "He served as Mayor of Yerevan from 1992 to 1996 and is the current Minister of High-Tech Industry (2021–).",
+              "text": "He served as Mayor of Yerevan from 1992 to 1996 and as the Minister of High-Tech Industry (2021–2022).",
               "links": [
                 {
                   "type": "internal",
@@ -90,7 +94,41 @@
             "text": "Vahagn Khachaturyan"
           },
           "image": {
-            "text": "Vahagn Khachaturyan in 2021.jpg"
+            "text": "Vahagn Khachaturyan 2021.jpg"
+          },
+          "caption": {
+            "text": "Khachaturyan in 2021"
+          },
+          "office1": {
+            "text": "President-elect of Armenia",
+            "links": [
+              {
+                "text": "President-elect of Armenia",
+                "type": "internal",
+                "page": "President of Armenia"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "13 March 2022"
+          },
+          "predecessor1": {
+            "text": "Alen Simonyan (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alen Simonyan"
+              }
+            ]
+          },
+          "succeeding1": {
+            "text": "Alen Simonyan (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alen Simonyan"
+              }
+            ]
           },
           "office3": {
             "text": "Minister of High-Tech Industry",
@@ -113,6 +151,9 @@
           },
           "term_start3": {
             "text": "4 August 2021"
+          },
+          "term_end3": {
+            "text": "3 March 2022"
           },
           "predecessor3": {
             "text": "Hayk Chobanyan",
@@ -160,16 +201,20 @@
             "text": "July 26, 1959"
           },
           "birth_place": {
-            "text": "Sisian, Armenia SSR",
+            "text": "Sisian, Armenian SSR, Soviet Union",
             "links": [
               {
                 "type": "internal",
                 "page": "Sisian"
               },
               {
-                "text": "Armenia SSR",
+                "text": "Armenian SSR",
                 "type": "internal",
                 "page": "Armenian Soviet Socialist Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
               }
             ]
           },
@@ -195,6 +240,15 @@
           },
           "occupation": {
             "text": "Politician"
+          },
+          "primeminister1": {
+            "text": "Nikol Pashinyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nikol Pashinyan"
+              }
+            ]
           }
         }
       ]
