@@ -13,7 +13,7 @@
         {
           "sentences": [
             {
-              "text": "Vahagn Garniki Khachaturyan (Վահագն Գառնիկի Խաչատուրյան; born 26 July 1959) is an Armenian politician currently serving as the President of Armenia.",
+              "text": "Vahagn Garniki Khachaturyan (Վահագն Գառնիկի Խաչատուրյան; born 26 July 1959) is an Armenian politician who currently is the President-elect of Armenia.",
               "links": [
                 {
                   "text": "Armenian",
@@ -21,6 +21,7 @@
                   "page": "Armenia"
                 },
                 {
+                  "text": "President-elect of Armenia",
                   "type": "internal",
                   "page": "President of Armenia"
                 }
@@ -92,6 +93,9 @@
         {
           "name": {
             "text": "Vahagn Khachaturyan"
+          },
+          "native_name": {
+            "text": "Վահագն Խաչատուրյան"
           },
           "image": {
             "text": "Vahagn Khachaturyan 2021.jpg"
