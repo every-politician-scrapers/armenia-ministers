@@ -1,10 +1,7 @@
 @@,itemlabel,item,startdate,enddate
-+++,Gurgen Dalibaltayan,Q4154164,1991,1992
-+++,Norat Ter-Grigoryants,Q4455394,1992-08-10,1993
-+++,Hrachya Andreasyan,Q4065909,1993,1994-05-12
+->,Q4065909->Hrachya Andreasyan,Q4065909,1993,1994-05-12
 ->,Mikael Harutyunyan,Q4070523,1995->1994-05-12,2007-04-04->2007-04-24
 ->,Seyran Ohanyan,Q2634821,2007-05->2007-05-11,2008-04-14
 ->,Yuri Khatchaturov,Q4496740,2008-04-15->2008-04-14,2016-10-03->2016-09-03
 ->,Movses Hakobyan,Q4059763,2016-10-03->2016-09-03,2018-05-24
-+++,Stepan Galstyan,Q13054869,2021-03-10,2021-03-22
 ---,Kamo Kochunts,Q97660542,2022-02-24,
