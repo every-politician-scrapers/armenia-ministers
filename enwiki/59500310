@@ -1,294 +1,32 @@
 {
-  "title": "Alen Simonyan",
-  "pageID": 59500310,
-  "categories": [
-    "1980 births",
-    "Living people",
-    "Members of the National Assembly (Armenia)",
-    "Politicians from Yerevan",
-    "Presidents of Armenia",
-    "Presidents of the National Assembly (Armenia)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Alen Roberti Simonyan (Ալեն Ռոբերտի Սիմոնյան; born 5 January 1980) is an Armenian politician currently serving as the acting president of Armenia since 1 February 2022.",
-              "links": [
-                {
-                  "text": "president of Armenia",
-                  "type": "internal",
-                  "page": "president of Armenia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Alen Roberti Simonyan"
-                ]
-              }
-            },
-            {
-              "text": "He also serves as the president of the National Assembly of Armenia, and a former member of Yerevan City Council.",
-              "links": [
-                {
-                  "text": "National Assembly of Armenia",
-                  "type": "internal",
-                  "page": "National Assembly (Armenia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Yerevan City Council"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Armenian politician (born 1980)",
-          "template": "short description"
-        },
-        {
-          "date": "January 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "y",
-          "year": "1980",
-          "month": "1",
-          "day": "5",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Armenia"
-          ],
-          "template": "army"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Alen Simonyan"
-          },
-          "office": {
-            "text": "Acting President of Armenia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Armenia"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 February 2022"
-          },
-          "primeminister": {
-            "text": "Nikol Pashinyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nikol Pashinyan"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Armen Sarkissian",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Armen Sarkissian"
-              }
-            ]
-          },
-          "office1": {
-            "text": "President of the National Assembly of Armenia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of the National Assembly of Armenia"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "2 August 2021"
-          },
-          "predecessor1": {
-            "text": "Ararat Mirzoyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ararat Mirzoyan"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Vice President of National Assembly",
-            "links": [
-              {
-                "text": "Vice President of National Assembly",
-                "type": "internal",
-                "page": "National Assembly (Armenia)"
-              }
-            ]
-          },
-          "native_name": {
-            "text": "Ալեն Սիմոնյան"
-          },
-          "image": {
-            "text": "Alen Simonyan1.jpg"
-          },
-          "alongside2": {
-            "text": "Lena Nazaryan and Vahe Enfiajyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lena Nazaryan"
-              },
-              {
-                "type": "internal",
-                "page": "Vahe Enfiajyan"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Eduard Sharmazanov Arpine Hovhannisyan Mikayel Melkumyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eduard Sharmazanov"
-              },
-              {
-                "type": "internal",
-                "page": "Arpine Hovhannisyan"
-              },
-              {
-                "type": "internal",
-                "page": "Mikayel Melkumyan"
-              }
-            ]
-          },
-          "termstart2": {
-            "text": "15 January 2019"
-          },
-          "term_end2": {
-            "text": "2 August 2021"
-          },
-          "office4": {
-            "text": "Member of the Yerevan City Council",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yerevan City Council"
-              }
-            ]
-          },
-          "party": {
-            "text": "Civil Contract",
-            "links": [
-              {
-                "text": "Civil Contract",
-                "type": "internal",
-                "page": "Civil Contract (Armenia)"
-              }
-            ]
-          },
-          "1blankname2": {
-            "text": "President",
-            "links": [
-              {
-                "text": "President",
-                "type": "internal",
-                "page": "President of the National Assembly of Armenia"
-              }
-            ]
-          },
-          "1namedata2": {
-            "text": "Ararat Mirzoyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ararat Mirzoyan"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the National Assembly",
-            "links": [
-              {
-                "text": "National Assembly",
-                "type": "internal",
-                "page": "National Assembly (Armenia)"
-              }
-            ]
-          },
-          "termstart3": {
-            "text": "16 May 2018"
-          },
-          "termend4": {
-            "text": "2018",
-            "number": 2018
-          },
-          "termstart4": {
-            "text": "2017",
-            "number": 2017
-          },
-          "birth_date": {
-            "text": "January 5, 1980"
-          },
-          "birth_place": {
-            "text": "Yerevan, Armenian SSR, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yerevan"
-              },
-              {
-                "type": "internal",
-                "page": "Armenian SSR"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Mariam Margaryan"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "education": {
-            "text": "Yerevan State University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yerevan State University"
-              }
-            ]
-          },
-          "allegiance": {
-            "text": "🇦🇲 Armenia",
-            "links": [
-              {
-                "text": "Armenia",
-                "type": "internal",
-                "page": "armenia"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "2000–2002"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Alen Simonyan",
+  "office": "Acting President of Armenia",
+  "term_start": "1 February 2022",
+  "primeminister": "Nikol Pashinyan",
+  "predecessor": "Armen Sarkissian",
+  "office1": "President of the National Assembly of Armenia",
+  "term_start1": "2 August 2021",
+  "predecessor1": "Ararat Mirzoyan",
+  "office2": "Vice President of National Assembly",
+  "native_name": "Ալեն Սիմոնյան",
+  "image": "Alen Simonyan1.jpg",
+  "alongside2": "Lena Nazaryan and Vahe Enfiajyan",
+  "predecessor2": "Eduard Sharmazanov Arpine Hovhannisyan Mikayel Melkumyan",
+  "termstart2": "15 January 2019",
+  "term_end2": "2 August 2021",
+  "office4": "Member of the Yerevan City Council",
+  "party": "Civil Contract",
+  "1blankname2": "President",
+  "1namedata2": "Ararat Mirzoyan",
+  "office3": "Member of the National Assembly",
+  "termstart3": "16 May 2018",
+  "termend4": "2018",
+  "termstart4": "2017",
+  "birth_date": "January 5, 1980",
+  "birth_place": "Yerevan, Armenian SSR, Soviet Union",
+  "spouse": "Mariam Margaryan",
+  "children": "3",
+  "education": "Yerevan State University",
+  "allegiance": "🇦🇲 Armenia",
+  "serviceyears": "2000–2002"
 }
