@@ -1,0 +1,61 @@
+id,name,relationship,relative,relativename
+Q1785,Charles Aznavour,child,Q20851209,Katia Aznavour
+Q1785,Charles Aznavour,child,Q4058374,Misha Aznavour
+Q1785,Charles Aznavour,child,Q466073,Seda Aznavour
+Q1785,Charles Aznavour,father,Q85539932,Misha Aznavourian
+Q1785,Charles Aznavour,relative,Q20506953,Arus Aznavuryan
+Q1785,Charles Aznavour,relative,Q582996,Mike Connors
+Q1785,Charles Aznavour,spouse,Q108650253,Micheline Rugel
+Q1785,Charles Aznavour,spouse,Q108650268,Evelyne Plessis
+Q1785,Charles Aznavour,spouse,Q108650275,Ulla Thorsell
+Q1975237,Khosrov Harutyunyan,child,Q21211990,Robert Harutyunyan
+Q1977367,Gagik Beglaryan,sibling,Q20509334,Hakob Beglaryan
+Q20509334,Hakob Beglaryan,sibling,Q1977367,Gagik Beglaryan
+Q20510294,Levon Martirosyan,sibling,Q2389088,Garik Martirosyan
+Q20513503,Alen Simonyan,child,Q111085476,Victoria Simonyan
+Q20513503,Alen Simonyan,child,Q111085478,Robert Simonyan
+Q20513503,Alen Simonyan,child,Q111085479,Erik Simonyan
+Q20513503,Alen Simonyan,sibling,Q111085475,Karlen Simonyan
+Q20513503,Alen Simonyan,spouse,Q111085473,Mariam Margaryan
+Q21212686,Arman Saghatelyan,father,Q20514221,Արմեն Սաղաթելյան
+Q215782,Andranik Margaryan,child,Q3515771,Taron Margaryan
+Q2380073,Yervand Zakharyan,sibling,Q4188844,Sayad Zakharyan
+Q2389114,Raffi Hovannisian,child,Q16210308,Garin Hovannisian
+Q2389114,Raffi Hovannisian,father,Q2657741,Richard G. Hovannisian
+Q2633067,Hovik Abrahamyan,child,Q31196741,Argam Abrahamyan
+Q2634821,Seyran Ohanyan,spouse,Q21467422,Ռուզաննա Խաչատրյան
+Q2752724,Karine Kazinian,father,Q21211852,Լորիս Կրոյան
+Q30195988,Lena Nazaryan,father,Q4312259,Rafael Nazaryan
+Q31196741,Argam Abrahamyan,father,Q2633067,Hovik Abrahamyan
+Q3498414,Stepan Demirchyan,father,Q1729248,Karen Demirchyan
+Q3515771,Taron Margaryan,father,Q215782,Andranik Margaryan
+Q4070509,Vagharshak Harutiunyan,sibling,Q4070514,"Арутюнян, Вячеслав Варназович"
+Q4074471,Ara Babloyan,child,Q22677766,Արման Բաբլոյան
+Q4078776,,father,Q4078774,Vladimir Barkhudaryan
+Q4149426,Manvel Grigoryan,spouse,Q20512975,Nazik Amiryan
+Q41692534,Narine Khachaturyan,father,Q20513499,Levon Tukhikyan
+Q41692534,Narine Khachaturyan,mother,Q20509455,Anna Petrosyan
+Q4193010,Naira Zohrabyan,spouse,Q16398720,Samvel Mkrtchʻyan
+Q4221140,Arman Kirakossian,father,Q4221142,John Kirakosyan
+Q4361653,Shushan Petrosyan,father,Q27188287,Samvel Petrossyan
+Q4361653,Shushan Petrosyan,mother,Q20509023,Arax Mansourian
+Q4403353,Arman Sahakyan,father,Q4403355,Galust Sahakyan
+Q4496709,Armen Khachatryan,father,Q21211734,Avag Khachatryan
+Q501736,Aram Sargsyan,sibling,Q279396,Vazgen Sargsyan
+Q52552037,Mikayel Melkumyan,father,Q13054705,Sergey Melkumyan
+Q52552037,Mikayel Melkumyan,sibling,Q63284336,Anahit Melkoumyan
+Q60492738,Sipan Pashinyan,relative,Q7035479,Nikol Pashinyan
+Q612803,Serzh Sargsyan,father,Q20670447,Azat Sargsyan
+Q612803,Serzh Sargsyan,mother,Q20670453,Nora Sargsyan
+Q612803,Serzh Sargsyan,sibling,Q21212739,Levon Sargsyan
+Q612803,Serzh Sargsyan,sibling,Q4408642,Sashik Sargsyan
+Q612803,Serzh Sargsyan,spouse,Q4977068,Rita Sargsyan
+Q613051,Robert Kocharyan,spouse,Q4883364,Bella Kocharyan
+Q61667659,Hayk Chobanyan,spouse,Q83026831,Armine Toumanyan
+Q61774946,Mikayel Zolyan,father,Q4193748,Suren Zoljan
+Q7035479,Nikol Pashinyan,spouse,Q52942979,Anna Hakobyan
+Q7907998,Vache Gabrielyan,father,Q13054903,Vazgen Gabrielyan
+Q7907998,Vache Gabrielyan,mother,Q21467381,Zhenya Kalantaryan
+Q7907998,Vache Gabrielyan,sibling,Q4130939,Ваге Вазгенович Габриелян
+Q93153,Armen Sarkissian,father,Q46729568,Vardan Sarkisov
+Q93153,Armen Sarkissian,spouse,Q50818130,Nouneh Sarkissian
