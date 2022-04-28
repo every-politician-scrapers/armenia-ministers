@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Armenia",
+      "id": "Q399"
+    },
+    "cabinet": {
+      "id": "Q108128269",
+      "start": "2021-08-02",
+      "parent": "Q30588103"
+    },
+    "source": {
+        "url":   "https://www.gov.am/en/gov-members/",
+        "title": "Government - Team Members - The Government of the Republic of Armenia",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/armenia-ministers"
+}
