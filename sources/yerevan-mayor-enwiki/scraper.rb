@@ -6,22 +6,21 @@ require 'pry'
 
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
-  # decorator UnspanAllTables
+  decorator UnspanAllTables
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Mayor'
+    'Image'
   end
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[noa image name start end].freeze
+      %w[no image name start end].freeze
     end
 
-    def tds
-      noko.css('td,th')
+    def empty?
+      super || (startDate[0...4].to_i < 1989)
     end
-
   end
 end
 
