@@ -1,4 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-->,Suren Abrahamyan,Q3505201,1998-05-01->1998-05-06,1999-06-15
-->,Karen Karapetyan,Q1979923,2010-12-17,2011-11-15->2011-11
-->,Kamo Areyan,Q4069098,2018-07-09,2018-10-10->2018-10-13
+@@,item,itemlabel,startdate,enddate
+->,Q4069098,Kamo Areyan,2018-07-09,2018-10-10->2018-10-13
