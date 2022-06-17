@@ -40,7 +40,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      false
+      too_early?
     end
   end
 end
