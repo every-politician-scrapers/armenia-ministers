@@ -1,8 +1,8 @@
-@@,itemlabel,item,startdate,enddate
-->,Davit Harutyunyan->David Harutyunyan,Q4070525,1998,2007->2007-05
-+++,Gevorg Danielyan,,2007-05,2010-12-09
-+++,Hrayr Tovmasyan,,2010-12-17,2014-04-03
-+++,Hovhannes Manukyan,,2014-04-30,2015-07-14
-->,Davit Harutyunyan->David Harutyunyan,Q4070525,2017,2018
-->,Artak Zeynalyan,Q4190200,2018-05-12->2018,2019-06-07->2019-03
-->,Karen Andreasyan,Q6369479,2021-08-02->2021-08-03,
+@@,item,itemlabel,startdate,enddate
+->,Q4070525,Davit Harutyunyan->David Harutyunyan,1998,2007->2007-05
++++,,Gevorg Danielyan,2007-05,2010-12-09
++++,,Hrayr Tovmasyan,2010-12-17,2014-04-03
++++,,Hovhannes Manukyan,2014-04-30,2015-07-14
+->,Q4070525,Davit Harutyunyan->David Harutyunyan,2017,2018
+->,Q4190200,Artak Zeynalyan,2018-05-12,2019-06-07->2019-03
+->,Q6369479,Karen Andreasyan,2021-08-02->2021-08-03,
