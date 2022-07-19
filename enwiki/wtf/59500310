@@ -1,0 +1,576 @@
+{
+  "title": "Alen Simonyan",
+  "pageID": 59500310,
+  "categories": [
+    "1980 births",
+    "Living people",
+    "Members of the National Assembly (Armenia)",
+    "Politicians from Yerevan",
+    "Presidents of Armenia",
+    "Presidents of the National Assembly (Armenia)",
+    "Civil Contract (Armenia) politicians",
+    "21st-century Armenian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alen Roberti Simonyan (Ալեն Ռոբերտի Սիմոնյան; born 5 January 1980) is an Armenian politician currently serving as the president of the National Assembly of Armenia since 2 August 2021.",
+              "links": [
+                {
+                  "text": "National Assembly of Armenia",
+                  "type": "internal",
+                  "page": "National Assembly (Armenia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alen Roberti Simonyan"
+                ]
+              }
+            },
+            {
+              "text": "He served as the acting president of Armenia from 1 February 2022 to 13 March 2022, and is a former member of Yerevan City Council.",
+              "links": [
+                {
+                  "text": "president of Armenia",
+                  "type": "internal",
+                  "page": "president of Armenia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yerevan City Council"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Armenian politician (born 1980)",
+          "template": "short description"
+        },
+        {
+          "date": "January 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1980",
+          "month": "1",
+          "day": "5",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Armenia"
+          ],
+          "template": "army"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Alen Simonyan"
+          },
+          "native_name": {
+            "text": "Ալեն Սիմոնյան"
+          },
+          "image": {
+            "text": "Alen Simonyan1.jpg"
+          },
+          "office1": {
+            "text": "President of the National Assembly of Armenia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the National Assembly of Armenia"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2 August 2021"
+          },
+          "predecessor1": {
+            "text": "Ararat Mirzoyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ararat Mirzoyan"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Acting President of Armenia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Armenia"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 February 2022"
+          },
+          "term_end2": {
+            "text": "13 March 2022"
+          },
+          "primeminister2": {
+            "text": "Nikol Pashinyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nikol Pashinyan"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Armen Sarkissian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Armen Sarkissian"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Vahagn Khachaturyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vahagn Khachaturyan"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Vice President of the National Assembly of Armenia",
+            "links": [
+              {
+                "text": "Vice President of the National Assembly of Armenia",
+                "type": "internal",
+                "page": "National Assembly (Armenia)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "15 January 2019"
+          },
+          "term_end3": {
+            "text": "2 August 2021"
+          },
+          "alongside3": {
+            "text": "Lena Nazaryan and Vahe Enfiajyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lena Nazaryan"
+              },
+              {
+                "type": "internal",
+                "page": "Vahe Enfiajyan"
+              }
+            ]
+          },
+          "1blankname3": {
+            "text": "President",
+            "links": [
+              {
+                "text": "President",
+                "type": "internal",
+                "page": "President of the National Assembly of Armenia"
+              }
+            ]
+          },
+          "1namedata3": {
+            "text": "Ararat Mirzoyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ararat Mirzoyan"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Eduard Sharmazanov Arpine Hovhannisyan Mikayel Melkumyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eduard Sharmazanov"
+              },
+              {
+                "type": "internal",
+                "page": "Arpine Hovhannisyan"
+              },
+              {
+                "type": "internal",
+                "page": "Mikayel Melkumyan"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Member of the National Assembly",
+            "links": [
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly (Armenia)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "16 May 2018"
+          },
+          "office5": {
+            "text": "Member of the Yerevan City Council",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yerevan City Council"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "2017",
+            "number": 2017
+          },
+          "term_end5": {
+            "text": "2018",
+            "number": 2018
+          },
+          "birth_name": {
+            "text": "Alen Roberti Simonyan"
+          },
+          "birth_date": {
+            "text": "January 5, 1980"
+          },
+          "birth_place": {
+            "text": "Yerevan, Armenian SSR, Soviet Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yerevan"
+              },
+              {
+                "type": "internal",
+                "page": "Armenian SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "party": {
+            "text": "Civil Contract",
+            "links": [
+              {
+                "text": "Civil Contract",
+                "type": "internal",
+                "page": "Civil Contract (Armenia)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Mariam Margaryan"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "education": {
+            "text": "Yerevan State University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yerevan State University"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇦🇲 Armenia",
+            "links": [
+              {
+                "text": "Armenia",
+                "type": "internal",
+                "page": "armenia"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "2000–2002"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Simonyan studied at the Faculty of Law of Yerevan State University, graduating in 2000.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yerevan State University"
+                }
+              ]
+            },
+            {
+              "text": "He would go on to serve two years in the Armed Forces of Armenia, before becoming Assistant to the Chairman of the Court of the First Instance of Ajapnyak and Davitashen Communities.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Armed Forces of Armenia"
+                },
+                {
+                  "text": "Ajapnyak",
+                  "type": "internal",
+                  "page": "Ajapnyak District"
+                },
+                {
+                  "text": "Davitashen",
+                  "type": "internal",
+                  "page": "Davtashen District"
+                }
+              ]
+            },
+            {
+              "text": "From 2003 to 2004, he worked as a human resources manager at Converse Bank."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2006 to 2007, Simonyan worked at a radio station."
+            },
+            {
+              "text": "He then cooperated with television companies TV5, Yerkir Media, and Armenia TV for the next five years, directing and producing a number of musical and political video clips.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yerkir Media"
+                },
+                {
+                  "type": "internal",
+                  "page": "Armenia TV"
+                }
+              ]
+            },
+            {
+              "text": "In 2012, he became Editor-in-Chief of \"Ararat\" magazine before founding Ararat Media Group LLC (araratnews.am web site and \"Ararat\" magazine)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Simonyan was one of a number of organizers of the \"Car free\" civil protest against the rise in prices for transportation."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 30 May 2015, he was elected member of the Civil Contract party board, becoming a spokesperson for the party.",
+              "links": [
+                {
+                  "text": "Civil Contract",
+                  "type": "internal",
+                  "page": "Civil Contract (Armenia)"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected on 30 October 2016."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2017 to 2018, Simonyan was a member of the Yerevan City Council in the composition of Way Out Alliance.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yerevan City Council"
+                },
+                {
+                  "type": "internal",
+                  "page": "Way Out Alliance"
+                }
+              ]
+            },
+            {
+              "text": "On 16 May 2018, he was elected Member of the National Assembly by the national electoral list of the Way Out Alliance.",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Armenia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Way Out Alliance"
+                }
+              ]
+            },
+            {
+              "text": "Later that year, on 9 December 2018, he was elected member of the National Assembly by the national electoral list of the My Step Alliance.",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Armenia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "My Step Alliance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 15 January 2019, he was elected vice president of the National Assembly, then president of the National Assembly on 2 August 2021.",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Armenia)"
+                }
+              ]
+            },
+            {
+              "text": "After the resignation of President Armen Sarkissian on 1 February 2022, Simonyan assumed the powers and duties of president of Armenia as acting president.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Armen Sarkissian"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "BREAKING: Why Armenian president Armen Sarkissian resigns? (VIDEO)",
+          "language": "en",
+          "work": "News.am",
+          "url": "https://news.am/eng/news/683494.html",
+          "access-date": "2022-01-25",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "National Assembly of Armenia {{!}} Official Web Site {{!}} parliament.am",
+          "url": "http://parliament.am/deputies.php?sel=details&ID=1268&lang=eng",
+          "access-date": "2022-01-24",
+          "website": "parliament.am",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "National Assembly of Armenia {{!}} Official Web Site {{!}} parliament.am",
+          "url": "http://parliament.am/deputies.php?sel=details&ID=1268&lang=eng",
+          "access-date": "2022-01-24",
+          "website": "parliament.am",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "National Assembly of Armenia {{!}} Official Web Site {{!}} parliament.am",
+          "url": "http://parliament.am/deputies.php?sel=details&ID=1268&lang=eng",
+          "access-date": "2022-01-24",
+          "website": "parliament.am",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Simonyan is married to Mariam Margaryan and has three children."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://news.am/eng/news/645103.html",
+          "title": "Yerkir.am: Armenia acting PM Pashinyan to hand over power",
+          "date": "24 May 2021",
+          "website": "News.am",
+          "quote": "Free News website, owned by National Assembly deputy speaker Alen Simonyan's wife Mariam Margaryan, had won the right to broadcast in Yerevan in a telecommunication license competition this year, writes Yerkir.am of Armenia.",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://hetq.am/en/article/137295",
+          "title": "Armenian Parliament Speaker and Friends Party on Mykonos: Who Footed the Bill?",
+          "last": "Sarukhanyan",
+          "first": "Vahe",
+          "date": "3 November 2021",
+          "website": "Hetq",
+          "quote": "Simonyan told Hetq that he had not been on vacation before leaving for Vienna, but on September 6, he posted a photo from Greece with his wife, Mariam Margaryan, on his Instagram page, writing, \"Three years later, three days off.\"",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "National Assembly of Armenia {{!}} Official Web Site {{!}} parliament.am",
+          "url": "http://parliament.am/deputies.php?sel=details&ID=1268&lang=eng",
+          "access-date": "2022-01-24",
+          "website": "parliament.am",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Armen Sarkissian",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of Armenia Acting",
+          "years": "2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Vahagn Khachaturyan",
+          "template": "s-aft"
+        },
+        {
+          "template": "armenianpresidents"
+        }
+      ]
+    }
+  ]
+}

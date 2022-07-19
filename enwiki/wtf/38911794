@@ -1,0 +1,604 @@
+{
+  "title": "Vahagn Khachaturyan",
+  "pageID": 38911794,
+  "categories": [
+    "1959 births",
+    "21st-century politicians",
+    "Living people",
+    "Mayors of Yerevan",
+    "People from Sisian",
+    "Presidents of Armenia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vahagn Garniki Khachaturyan (Վահագն Գառնիկի Խաչատուրյան; born 26 July 1959) is an Armenian politician who is the 5th and current president of Armenia.",
+              "links": [
+                {
+                  "text": "president of Armenia",
+                  "type": "internal",
+                  "page": "president of Armenia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Vahagn Garniki Khachaturyan"
+                ]
+              }
+            },
+            {
+              "text": "He served as Mayor of Yerevan from 1992 to 1996 and as the Minister of High-Tech Industry from 2021 to 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mayor of Yerevan"
+                },
+                {
+                  "text": "High-Tech Industry",
+                  "type": "internal",
+                  "page": "Ministry of High-Tech Industry (Armenia)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a member of the Armenian National Congress until his resignation in 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Armenian National Congress"
+                }
+              ]
+            },
+            {
+              "text": "He led the ANC list in the 2013 Yerevan City Council election, and is currently an independent.",
+              "links": [
+                {
+                  "text": "2013 Yerevan City Council election",
+                  "type": "internal",
+                  "page": "2013 Yerevan City Council election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "President of Armenia since 2022",
+          "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1959",
+          "month": "7",
+          "day": "26",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Vahagn Khachaturyan"
+          },
+          "native_name": {
+            "text": "Վահագն Խաչատուրյան"
+          },
+          "image": {
+            "text": "President of the Republic of Armenia Vahagn Khachaturyan (cropped).jpg"
+          },
+          "office": {
+            "text": "5th President of Armenia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Armenia"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Nikol Pashinyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nikol Pashinyan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 March 2022"
+          },
+          "predecessor": {
+            "text": "Alen Simonyan (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alen Simonyan"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of High-Tech Industry",
+            "links": [
+              {
+                "text": "Minister of High-Tech Industry",
+                "type": "internal",
+                "page": "Ministry of High-Tech Industry (Armenia)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Nikol Pashinyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nikol Pashinyan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "4 August 2021"
+          },
+          "term_end1": {
+            "text": "3 March 2022"
+          },
+          "predecessor1": {
+            "text": "Hayk Chobanyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hayk Chobanyan"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Robert Khachatryan"
+          },
+          "office2": {
+            "text": "Mayor of Yerevan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mayor of Yerevan"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "4 December 1992"
+          },
+          "term_end2": {
+            "text": "22 February 1996"
+          },
+          "predecessor2": {
+            "text": "Hambardzum Galstyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hambardzum Galstyan"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Ashot Mirzoyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ashot Mirzoyan"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 26, 1959"
+          },
+          "birth_place": {
+            "text": "Sisian, Armenian SSR, Soviet Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sisian"
+              },
+              {
+                "text": "Armenian SSR",
+                "type": "internal",
+                "page": "Armenian Soviet Socialist Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Armenian National Congress (2013–2017)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Armenian National Congress"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Anahit Minasyan"
+          }
+        }
+      ],
+      "references": [
+        {
+          "script-title": "hy:Վահագն Գառնիկի Խաչատրյան",
+          "url": "http://www.yerevan.am/edfiles/files/vahagnkhachatryan.pdf",
+          "publisher": "Yerevan Municipality",
+          "access-date": "25 March 2013",
+          "language": "hy",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Former mayors of Yerevan",
+          "url": "http://www.yerevan.am/3_115_%D4%B5%D6%80%D6%87%D5%A1%D5%B6%D5%AB%20%D5%B6%D5%A1%D5%AD%D5%AF%D5%AB%D5%B6%20%D6%84%D5%A1%D5%B2%D5%A1%D6%84%D5%A1%D5%BA%D5%A5%D5%BF%D5%B6%D5%A5%D6%80%D5%A8.html",
+          "publisher": "Yerevan Municipality Official Website",
+          "access-date": "25 March 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "High-Tech minister addresses reports that he is ruling party's pick for presidency",
+          "url": "https://armenpress.am/eng/news/1074332.html",
+          "access-date": "2022-02-03",
+          "website": "armenpress.am",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "ANC rep. Vahagn Khachatryan to run for Yerevan mayor?",
+          "url": "http://www.panarmenian.net/eng/news/150443/",
+          "access-date": "25 March 2013",
+          "date": "19 March 2013",
+          "agency": "PanARMENIAN.Net",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.parliament.am/deputies.php?sel=details&ID=449&lang=eng",
+          "title": "National Assembly of Armenia &#124; Official Web Site &#124; parliament.am",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vahagn Khachaturyan was born in 1959 in Sisian.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sisian"
+                }
+              ]
+            },
+            {
+              "text": "He is married and has two children."
+            },
+            {
+              "text": "Besides his native Armenian, he also speaks Russian and English."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Early career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He graduated from the Yerevan Institute of National Economy in 1980, with the qualification of economist.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yerevan Institute of National Economy"
+                }
+              ]
+            },
+            {
+              "text": "From 1980 to 1982, he served in the Soviet Army.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Soviet Army"
+                }
+              ]
+            },
+            {
+              "text": "After fufiilling his national service, he carried out for the next decade pedagogical activities at the Yerevan Institute, working for the first eight years at the “HrazdanMash” (Hrazdan Instrumental Production) Enterprise as an economist and then at the “Mars” Factory as the deputy general director until 1992."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "From 1990 to 1996 he was a member of the Yerevan City Council, then from 1992 to 1996 he served as the mayor of Yerevan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yerevan City Council"
+                }
+              ]
+            },
+            {
+              "text": "He was a deputy in the National Assembly of Armenia from 1995 to 1999.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Armenia"
+                }
+              ]
+            },
+            {
+              "text": "From 1996 to 1998 he was an adviser to President of Armenia Levon Ter-Petrosyan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Levon Ter-Petrosyan"
+                }
+              ]
+            },
+            {
+              "text": "In 2002- Vice President of the Center for Political Science, Law, and Economic Research."
+            },
+            {
+              "text": "He was appointed Minister of High-Tech Industry in August 2021.",
+              "links": [
+                {
+                  "text": "Minister of High-Tech Industry",
+                  "type": "internal",
+                  "page": "Ministry of High-Tech Industry (Armenia)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Presidency (2022–present)",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following the resignation of President of Armenia Armen Sarkissian in January 2022, the ruling Civil Contract Party nominated Khachaturyan for the presidency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Armen Sarkissian"
+                },
+                {
+                  "text": "Civil Contract Party",
+                  "type": "internal",
+                  "page": "Civil Contract (Armenia)"
+                }
+              ]
+            },
+            {
+              "text": "He was elected president by the Armenian parliament in the second round of voting.",
+              "links": [
+                {
+                  "text": "in the second round of voting",
+                  "type": "internal",
+                  "page": "2022 Armenian presidential election"
+                }
+              ]
+            },
+            {
+              "text": "He was inaugurated on 13 March 2022."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In June 2022, he visited the St. Petersburg International Economic Forum on it's 25th anniversary in St. Petersburg, Russia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "St. Petersburg International Economic Forum"
+                },
+                {
+                  "text": "St. Petersburg, Russia",
+                  "type": "internal",
+                  "page": "Saint Petersburg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Salome_Zourabichvili_and_Vahagn_Khachaturyan.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Salome_Zourabichvili_and_Vahagn_Khachaturyan.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Salome_Zourabichvili_and_Vahagn_Khachaturyan.jpg",
+          "caption": "Salome Zourabichvili and President Khachaturyan meeting in Tbilisi, 30 May 2022.",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "last": "Ghazanchyan",
+          "first": "Siranush",
+          "date": "2 February 2022",
+          "title": "Vahagn Khachaturyan officially nominated for President of Armenia",
+          "url": "https://en.armradio.am/2022/02/02/vahagn-khachaturyan-officially-nominated-for-president-of-armenia/",
+          "access-date": "2022-02-03",
+          "website": "Public Radio of Armenia",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "3 March 2022",
+          "title": "Vahagn Khachaturyan elected President of Armenia",
+          "url": "https://armenpress.am/eng/news/1076998.html",
+          "access-date": "2022-03-03",
+          "website": "armenpress.am",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-03-03",
+          "title": "President-elect Vahagn Khachaturyan to be inaugurated in 10 days",
+          "url": "https://armenpress.am/eng/news/1077001/",
+          "access-date": "2022-03-07",
+          "website": "Armenpress",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.arabnews24.ca/en/World_news/205243.html",
+          "title": "2022 St. Petersburg International Economic Forum: Day 1",
+          "date": "15 June 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Membership",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "2000: Founding member of the ARMAT Center for Democracy and Civil Society Development"
+          },
+          {
+            "text": "2006: Founding member of the social and political initiatives “Aylyntrank”"
+          },
+          {
+            "text": "2019–2021: Member of the Board of the Armeconombank"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Hambardzum Galstyan",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Yerevan",
+          "years": "1992–1996",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Ashot Mirzoyan",
+          "template": "s-aft"
+        },
+        {
+          "before": "Hayk Chobanyan",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of High-Tech Industry",
+          "years": "2021–2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Davit Sahakyan",
+          "template": "s-aft"
+        },
+        {
+          "before": "Alen Simonyan Acting",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of Armenia",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "armenianpresidents"
+        },
+        {
+          "template": "heads of state of republics"
+        },
+        {
+          "template": "mayors of yerevan"
+        },
+        {
+          "template": "armenia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
